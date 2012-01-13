@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1303/trunk/wifidog/doc
+END
+doxygen.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1303/trunk/wifidog/doc/doxygen.cfg.in
+END
+README.developers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/901/trunk/wifidog/doc/README.developers.txt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/wifidog/doc/Makefile.am
+END
+wifidog_firewall_diagram.dia
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1241/trunk/wifidog/doc/wifidog_firewall_diagram.dia
+END

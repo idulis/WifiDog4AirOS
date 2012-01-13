@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1461/trunk/wifidog
+END
+wifidog-msg.html.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1400/trunk/wifidog/wifidog-msg.html.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1450/trunk/wifidog/AUTHORS
+END
+wifidog.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/901/trunk/wifidog/wifidog.spec.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1422/trunk/wifidog/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1429/trunk/wifidog/ChangeLog
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/901/trunk/wifidog/FAQ
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/9/trunk/wifidog/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1340/trunk/wifidog/Makefile.am
+END
+README.openwrt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1418/trunk/wifidog/README.openwrt
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/901/trunk/wifidog/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1389/trunk/wifidog/NEWS
+END
+wifidog.conf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1422/trunk/wifidog/wifidog.conf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/935/trunk/wifidog/README
+END

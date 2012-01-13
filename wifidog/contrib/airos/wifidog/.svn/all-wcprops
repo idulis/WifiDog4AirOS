@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1461/trunk/wifidog/contrib/airos/wifidog
+END
+files.patch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1461/trunk/wifidog/contrib/airos/wifidog/files.patch
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1459/trunk/wifidog/contrib/airos/wifidog/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1459/trunk/wifidog/contrib/airos/wifidog/Makefile
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 50
+*.la
+*.lo
+.deps
+.libs
+Makefile
+Makefile.in
+wifidog
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1429/trunk/wifidog/libhttpd
+END
+protocol.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1429/trunk/wifidog/libhttpd/protocol.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/87/trunk/wifidog/libhttpd/version.c
+END
+ip_acl.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1429/trunk/wifidog/libhttpd/ip_acl.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/901/trunk/wifidog/libhttpd/Makefile.am
+END
+httpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1368/trunk/wifidog/libhttpd/httpd.h
+END
+httpd_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1345/trunk/wifidog/libhttpd/httpd_priv.h
+END
+api.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1429/trunk/wifidog/libhttpd/api.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/87/trunk/wifidog/libhttpd/README
+END

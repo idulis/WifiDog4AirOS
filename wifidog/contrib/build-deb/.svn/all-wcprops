@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1190/trunk/wifidog/contrib/build-deb
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1190/trunk/wifidog/contrib/build-deb/control
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1190/trunk/wifidog/contrib/build-deb/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1190/trunk/wifidog/contrib/build-deb/rules
+END

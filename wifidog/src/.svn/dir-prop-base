@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 60
+*.la
+*.lo
+*.o
+.deps
+.libs
+Makefile
+Makefile.in
+wifidog
+wdctl
+END

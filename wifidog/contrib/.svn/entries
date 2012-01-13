@@ -1,0 +1,77 @@
+10
+
+dir
+1462
+https://dev.wifidog.org/svn/trunk/wifidog/contrib
+https://dev.wifidog.org/svn
+
+
+
+2010-10-01T03:01:06.205794Z
+1461
+gbastien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4c0ea164-750a-0410-922a-bd9993033959
+
+build-openwrt-whiterussianipk
+dir
+
+build-deb
+dir
+
+build-openwrt-kamikazeipk
+dir
+
+dump_fw.sh
+file
+
+
+
+
+2012-01-13T03:09:38.710018Z
+16e8cffce1057ec464110adc13795cc1
+2007-03-13T00:16:30.548192Z
+1191
+benoitg
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+96
+
+airos
+dir
+
+build-openwrt-kamikazeipk8.09up
+dir
+

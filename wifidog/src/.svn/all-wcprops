@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1454/trunk/wifidog/src
+END
+fw_iptables.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1454/trunk/wifidog/src/fw_iptables.c
+END
+fw_iptables.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1375/trunk/wifidog/src/fw_iptables.h
+END
+firewall.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1389/trunk/wifidog/src/firewall.c
+END
+firewall.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1241/trunk/wifidog/src/firewall.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1429/trunk/wifidog/src/util.c
+END
+safe.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/901/trunk/wifidog/src/safe.c
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1432/trunk/wifidog/src/http.c
+END
+centralserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1377/trunk/wifidog/src/centralserver.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1373/trunk/wifidog/src/util.h
+END
+safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/901/trunk/wifidog/src/safe.h
+END
+http.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1346/trunk/wifidog/src/http.h
+END
+centralserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1373/trunk/wifidog/src/centralserver.h
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1429/trunk/wifidog/src/conf.c
+END
+commandline.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/935/trunk/wifidog/src/commandline.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1305/trunk/wifidog/src/debug.c
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1373/trunk/wifidog/src/conf.h
+END
+commandline.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/901/trunk/wifidog/src/commandline.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/901/trunk/wifidog/src/debug.h
+END
+gateway.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1305/trunk/wifidog/src/gateway.c
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1454/trunk/wifidog/src/auth.c
+END
+wdctl_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1305/trunk/wifidog/src/wdctl_thread.c
+END
+gateway.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/901/trunk/wifidog/src/gateway.h
+END
+auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1373/trunk/wifidog/src/auth.h
+END
+client_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1373/trunk/wifidog/src/client_list.c
+END
+wdctl_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1241/trunk/wifidog/src/wdctl_thread.h
+END
+httpd_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/901/trunk/wifidog/src/httpd_thread.c
+END
+wdctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1373/trunk/wifidog/src/wdctl.c
+END
+client_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1373/trunk/wifidog/src/client_list.h
+END
+httpd_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/901/trunk/wifidog/src/httpd_thread.h
+END
+wdctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/901/trunk/wifidog/src/wdctl.h
+END
+ping_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1373/trunk/wifidog/src/ping_thread.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1121/trunk/wifidog/src/Makefile.am
+END
+ping_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1104/trunk/wifidog/src/ping_thread.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/901/trunk/wifidog/src/common.h
+END
